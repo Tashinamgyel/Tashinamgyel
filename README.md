@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌊 About Me:
 Hi, I'm Tashi Namgyel, an enthusiastic ICT student at Rangsit University, Thailand, graduating in 2025 with a 3.95/4 GPA. I specialize in Flutter mobile development, with a strong foundation in Dart, Python, Java, and UI/UX design. My projects include a minimalist To-Do app, an AI-powered language learning tool, an IELTS practice app, and a finalist-winning tee time booking app from the 2025 Hospitality and ERP Hackathon. I’ve also built Python-based Telegram bots and a Gemini AI chatbot for automating FAQs.<br>Beyond coding, I’m passionate about leadership and community impact, having raised 48,979 Baht for Myanmar earthquake victims. Fluent in English, proficient in Hindi, native in Dzongkha, and conversational in Thai, I thrive in collaborative, cross-functional teams. Check out my projects on GitHub and connect with me at tashin599@gmail.com!<br>
 
 
