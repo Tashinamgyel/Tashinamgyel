@@ -14,12 +14,11 @@
 
 ## Current Projects
 
-- 📜 **[Constitution of Bhutan App](https://play.google.com/store/apps/details?id=com.tashi.constitutionofbhutan)** - The First Digital Constitution of Bhutan. 100+ active users. (Kotlin/Compose)
-- 🔌 **[BhutanAPI](https://bhutanapi.com)** - A centralized Spring Boot microservice serving national data with 99% uptime.
+- 📜 **[Constitution of Bhutan App](https://play.google.com/store/apps/details?id=com.tashi.constitutionofbhutan)** - The First Digital Constitution of Bhutan. 100+. (Kotlin/Compose)
+- 🔌 **[BhutanAPI](https://bhutanapi.com)** - A centralized Spring Boot microservice serving national data.
 - 🏛️ **[House of Bhutan](https://github.com/Tashinamgyel)** - A civic tech platform for parliamentary debate and voting. (MVVM + Firebase)
-- 🚌 **[City Bus Tracking System](https://github.com/Tashinamgyel)** - Real-time dual-app ecosystem with IoT integration. (Kotlin + MQTT)
 - ⛳ **[TeeTime](https://github.com/Tashinamgyel)** - Golf booking app with social engagement features. (Flutter + Firebase)
-- 💘 **[Dating App MVP](https://github.com/Tashinamgyel)** - High-fidelity cross-platform MVP with complex media flows. (Flutter + Spring Boot)
+
 
 ## Connect
 
