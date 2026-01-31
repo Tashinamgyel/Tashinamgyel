@@ -1,27 +1,31 @@
-# 💫 About Me:
-Hi there, I'm Tashi Namgyel! 👋🇧🇹<br><br>📱 Flutter Developer | ☕ Spring Boot Enthusiast | 🎓 GPA 3.96<br><br>I don't just write code; I build digital infrastructure. I recently digitized an entire nation's supreme law by building the **First Digital Constitution of Bhutan App** 📜.<br><br>I bridge the gap between pixel-perfect mobile UIs and robust backend architecture. My goal is to engineer scalable systems that solve real-world problems.<br><br>**🚀 What I'm Proud Of:**<br>* **Constitution of Bhutan App:** 100+ active users in month one. Native Android (Kotlin/Compose).<br>* **House of Bhutan:** A civic tech platform for parliamentary debate (MVVM + Firebase).<br>* **BhutanAPI:** A Spring Boot microservice serving national data with 99% uptime.<br><br>**🛠️ Tech Stack:**<br>* **Mobile:** Flutter, Dart, Kotlin, Jetpack Compose<br>* **Backend:** Java Spring Boot, PostgreSQL, Firebase<br>* **Architecture:** Clean Architecture, MVVM, Microservices<br>* **Tools:** Docker, Git, CI/CD, Figma<br><br>📫 **Reach me at:** tashin599@gmail.com
+# Hi, I'm Tashi Namgyel 👋
 
+📍 **Bhutan ↔ Thailand** | 📱 **Flutter & Android Developer** | ☕ **Spring Boot Enthusiast**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tashinamgyel.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tashinamgyel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15992178) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TashiNamgyel9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tashin599@gmail.com) 
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tashinamgyel&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tashinamgyel&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashinamgyel&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> I don't just write code; I build digital infrastructure. From digitizing an entire nation's supreme law to engineering scalable microservices, my goal is to bridge the gap between pixel-perfect mobile UIs and robust backend architecture.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tashinamgyel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Current Projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 📜 **[Constitution of Bhutan App](https://play.google.com/store/apps/details?id=com.tashi.constitutionofbhutan)** - The First Digital Constitution of Bhutan. 100+ active users. (Kotlin/Compose)
+- 🔌 **[BhutanAPI](https://bhutanapi.com)** - A centralized Spring Boot microservice serving national data with 99% uptime.
+- 🏛️ **[House of Bhutan](https://github.com/Tashinamgyel)** - A civic tech platform for parliamentary debate and voting. (MVVM + Firebase)
+- 🚌 **[City Bus Tracking System](https://github.com/Tashinamgyel)** - Real-time dual-app ecosystem with IoT integration. (Kotlin + MQTT)
+- ⛳ **[TeeTime](https://github.com/Tashinamgyel)** - Golf booking app with social engagement features. (Flutter + Firebase)
+- 💘 **[Dating App MVP](https://github.com/Tashinamgyel)** - High-fidelity cross-platform MVP with complex media flows. (Flutter + Spring Boot)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tashinamgyel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Connect
 
----
-[![](https://visitcount.itsvg.in/api?id=Tashinamgyel&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tashinamgyel)
+[![X](https://img.shields.io/badge/-@TashiNamgyel9-black?style=flat-square&logo=X&logoColor=white)](https://x.com/TashiNamgyel9)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15992178)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tashinamgyel.jpg)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tashin599@gmail.com)
+[![Website](https://img.shields.io/badge/-tashinamgyel.com-00C4CC?style=flat-square&logo=google-chrome&logoColor=white)](https://www.tashinamgyel.com/)
